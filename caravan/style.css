@@ -3,11 +3,23 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 .header{
   width: 100%;
   height: 120px;
   background-color: red;
 }
+.header-top{
+  width: 100%;
+  height: 70px;
+  background-color: hotpink;
+}
+.header-bottom{
+  width: 100%;
+  height: 50px;
+  background-color: pink;
+}
+
 .main-visual{
   width: 100%;
   height: 300px;
