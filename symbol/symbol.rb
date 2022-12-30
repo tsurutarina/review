@@ -1,0 +1,3 @@
+aiueo = :あいうえお
+puts aiueo
+
